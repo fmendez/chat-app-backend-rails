@@ -7,7 +7,7 @@ class UsersController < ApplicationController
   def create
     user = User.new(user_params)
     ActionCable.server.broadcast('user_channel', user) if user.save
-    head :ok
+    render json: user
   end
 
   def add_message
