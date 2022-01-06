@@ -4,4 +4,4 @@ This is a toy project exploring the interaction and integration of WebSockets us
 
 ![Chat app demo](public/chatappdemo.gif)
 
-The the frontend part: [https://github.com/fmendez/chat-app-ui](https://github.com/fmendez/chat-app-ui)
+The frontend part: [https://github.com/fmendez/chat-app-ui](https://github.com/fmendez/chat-app-ui)
