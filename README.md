@@ -1,24 +1,7 @@
-# README
+### Simple/toy WebSocket chat-app using React, Redux (via toolkit), Typescript and Rails (backend)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a toy project exploring the interaction and integration of WebSockets using React/Redux/Rails.
 
-Things you may want to cover:
+![Chat app demo](public/chatappdemo.gif)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The the frontend part: [https://github.com/fmendez/chat-app-ui](https://github.com/fmendez/chat-app-ui)
